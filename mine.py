@@ -1,6 +1,5 @@
 z2_numbers_list = list(range(1,50))
 
-#z2_numbers_list = [1, 2, 3, 5, 6, 11, 12, 18, 19, 21, ]
 primenumbers = list()
 flag = False
 
