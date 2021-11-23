@@ -18,3 +18,5 @@ for i in z2_numbers_list:
     primenumbers.append(i)
 
 print (primenumbers)
+
+print ("Hiszpańska inkwizycja ...")
